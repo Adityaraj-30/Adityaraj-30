@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityaraj-30
+- 👋 Hi, I’m @adityaraj-30
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on intermediate projects either in c++ or python
