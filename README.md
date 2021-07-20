@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on intermediate projects either in c++ or python
-- 📫 How to reach me through my email- imadityaraj00@gmail.com
+- 📫 How to reach me through my email- 
 
 
 <!---
