@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_adityaraj_30" target="blank"><img src="https://img.shields.io/twitter/follow/_adityaraj_30?logo=twitter&style=for-the-badge" alt="_adityaraj_30" /></a> </p>
 
-- 🔭 I’m currently working on [Niralabharat App](https://play.google.com/store/apps/details?id=com.niralabharat.news)
+- 🔭 I’m currently working on [Niralabharat News App](https://play.google.com/store/apps/details?id=com.niralabharat.news)
 
 - 🌱 I’m currently learning **HTML**
 
@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_adityaraj_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adityaraj_30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-87b951203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-87b951203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-raj-87b951203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-raj-87b951203" height="30" width="40" /></a>
 <a href="https://instagram.com/_adityaraj_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adityaraj_30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucucazakfr0wnsb39ykufovw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucucazakfr0wnsb39ykufovw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/adityaartiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adityaartiste" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityaraj_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaraj_30" height="30" width="40" /></a>
 </p>
 
