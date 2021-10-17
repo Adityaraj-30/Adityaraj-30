@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Niralabharat News App](https://play.google.com/store/apps/details?id=com.niralabharat.news)
 
-- 🌱 I’m currently learning **HTML** and **CSS**
+- 🌱 I’m currently learning **HTML**,**CSS** and **JavaScript**
 
 - 👯 I’m looking to collaborate on **C++, Java**
 
