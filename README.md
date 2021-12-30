@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Niralabharat News App](https://play.google.com/store/apps/details?id=com.niralabharat.news)
 
-- 🌱 I’m currently learning **HTML**,**CSS** and **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **C++, Java**
+- 👯 I’m looking to collaborate on **Front-End, Java**
 
 - 📝 I regularly write articles on [https://codingtimes.in/](https://codingtimes.in/)
 
